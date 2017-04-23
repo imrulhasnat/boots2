@@ -1,0 +1,112 @@
+body{
+	margin: 0;
+	padding: 0;
+	height:100%;
+}
+html{
+	height: 100%;
+}
+.first{
+	background-image: url("start.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+#wer{
+position: relative;
+bottom: 870px;
+width:100%;
+}
+#ton{
+	position: relative;
+	left: 300px;
+	top: 30px;
+	font-weight: bold;
+}
+.ulm li a{
+	color: white;
+}
+.ulm li{
+	position: relative;
+	right: 400px;
+	top: 60px;
+}
+.anl{
+	position: relative;
+	bottom: 1420px;
+	left: 400px;
+}
+.secs img{
+position: relative;
+bottom: 150px;
+}
+.sec{
+	position: relative;
+	bottom: 800px;
+}
+.jumbotron{
+	position: relative;
+	bottom: 950px;
+	background-color: #262f36;
+	width:100%;
+	height: 600px;
+}
+.thir{
+	color: white;
+}
+.thor{
+	color: #264ca3;
+	border: 2px solid grey;
+}
+.four img{
+	position: relative;
+	bottom: 1000px;
+width: 100%;
+}
+.five{
+	position: relative;
+	bottom: 900px;
+}
+.five h5{
+position: relative;
+left: 160px;
+}
+.six{
+	position: relative;
+	bottom: 850px;
+}
+.jumbotrons{
+	background: whitesmoke;
+}
+.seven h5{
+position: relative;
+left: 120px;
+}
+.sev{
+	position: relative;
+	bottom: 2px;
+}
+.seven{
+	position: relative;
+	bottom: 700px;
+}
+.jumbotronz{
+	background: #262f36;
+	height: 500px;
+	position: relative;
+	bottom: 697px;
+}
+.abot{
+	position: relative;
+	top: 150px;
+}
+.abot h5{
+	color: white;
+}
+.abot p{
+	color: #8497a0;
+}
+.abot ul li{
+	list-style: none;
+	color: #8497a0;
+}
